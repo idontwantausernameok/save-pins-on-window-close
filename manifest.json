@@ -4,12 +4,12 @@
       "background.js"
     ]
   },
-  "description": "",
+  "description": "save/restores pinned tabs when a window (that isn't the last) is closed",
   "manifest_version": 2,
   "name": "save-pins-on-window-close",
   "permissions": [
     "tabs",
     "sessions"
   ],
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
