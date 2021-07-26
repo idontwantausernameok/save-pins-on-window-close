@@ -2,7 +2,7 @@
 
 # variables
 ID="save-pins-on-window-close"
-BRANCH="master"
+BRANCH="main"
 
 MISSING_REQ=0
 for req in mktemp wget unzip zip grep cut date;do
